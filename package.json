@@ -4,7 +4,10 @@
   "description": "my first socket.io app",
   "dependencies": {
     "ejs": "~0.7.1",
+    "express":"*",
+    "body-parser":"*",
     "express": "^4.16.3",
+    "express-logger": "0.0.3",
     "socket.io": "^1.7.4"
   },
   "scripts": {
@@ -14,7 +17,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/socketio/chat-example.git"
+    "url": "git+https://github.com/Zemron/my-chat-example.git"
   },
   "keywords": [],
   "author": "",
